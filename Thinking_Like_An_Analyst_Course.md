@@ -6,14 +6,21 @@ The course contained information to help apply proven frameworks and practice th
 
 ## Key takeaways to be a great Analyst
 
-Following are the key attributes to being a great analyst:
+Following are the core attributes required to be a great analyst:
 
 ### Strategic Thinking
 
+Understanding business objectives or specific problems, identifies key success or failure factors, and developing concise, tactical analysis and measurement strategies are all aspects of strategic thinking.
+
+Strategic Thinking is most critical at early stages of the analytics workflow
 
 
 ### Technical Proficiency
 
+Technical Proficiency is the ability to execute. This is where **hard-skills** like writing code, carrying out ETL activities and data visualization matter.
 
+Technical skills help in being effecient with analysis and being a valuable contributor to the analytical projects.
 
 ### Communication Skills
+
+The ability to translate raw data to end users by communicating clearly. Additionally, it includes the ability to listen and interpret feedback effectively. 
