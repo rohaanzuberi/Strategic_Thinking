@@ -6,5 +6,8 @@ This repository consists of my course learnings, case studies and a general mind
 
 ## 📚 Courses
 
+### [Thinking Like an Analyst](https://www.mavenanalytics.io/course/thinking-like-an-analyst)
 
 ## 📑 Case Studies
+
+### [Maven Muscles]
