@@ -27,5 +27,6 @@ The ability to translate raw data to end users by communicating clearly. Additio
 
 ## Data Analysis Workflow
 
-Framework to set clear expectations, define and measure key outcomes, improve accuracy and efficiency, and consistently deliver insightful, high-quality work:
+Workflow to set clear expectations, define and measure key outcomes, improve accuracy and efficiency, and consistently deliver insightful, high-quality work:
 
+![](Data_Analysis_Workflow.jpeg)
