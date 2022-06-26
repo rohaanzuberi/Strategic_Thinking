@@ -60,11 +60,32 @@ Workflow to set clear expectations, define and measure key outcomes, improve acc
 
 ### Collect & prepare the data
 
+- Strong Data Quality = Strong Analysis
+- Combination of quality assurance, data profiling, feature engineering, and ETL activities
+
+Creates a strong foundation for analysis on clean, high-quality data
+
+> **KEY QUESTIONS**:
+>
+> - Where is my data stored, and how can I access it?
+> - Are there quality issues that need to be fixed?
+> - Will I need to model or transform the data before analysis?
 
 ### Understand the data
 
+- It is essential to understand the data before starting analysis
+- Have crystal-clear understanding of the scope, granularity and composition of the source data
+- Check if analysis requires some level of industry knowledge or domain expertise
+
+This process will help in working efficiently and ensuring that the exact data needed to support analysis is available
+
+> **KEY QUESTIONS**:
+> - What exactly does each record represent?
+> - Which fields are most relevant to the analysis?
+> - Are there important nuances or industry-specific metrics?
 
 ### Analyze & visualize the data
+
 
 
 ### Develop data-driven insights
