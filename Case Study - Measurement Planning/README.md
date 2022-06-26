@@ -13,3 +13,27 @@ My first assignment is to build a detailed measurement plan for the VP who runs 
 1. Consider the goals of the business and needs of the stakeholders
 2. Identify and prioritize Key Performance Indicators and supporting metrics
 3. Make a plan to gather the data and address any gaps
+
+## The Deliverables
+
+To complete the assignment and meet the objectives, I carried out the following steps.
+
+### Step 1: Think Business First
+
+1. What are the high-level goals of the Maven Muscles business?
+
+To answer this question, it is important to consider 
+
+2. How does the call center support those business goals?
+
+
+
+3. What are the most important goals for the call center?
+
+
+
+4. What questions should you try to answer for call center leadership?
+
+
+
+5. What actions can you imagine leadership taking based on your data?
