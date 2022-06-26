@@ -66,19 +66,36 @@ The next step is to focus on the key stakeholders; who are they, what do they ne
 
 ### 1. What is your primary stakeholder most interested in? What are her goals?
 
+- Customer retention
+- New customer signups
+- Customer satisfaction
+- Call center performance
 
 
 ### 2. What information should you provide to help her do her job well?
 
-
+- Dashboards consisting of above metrics
+- Insights on low performing areas
 
 ### 3. What are the COO and CEO most interested in?
 
-
+- Financial metrics (Profit, Revenue etc.)
+- Reducing customer churn
+- Identifying high value customers
 
 ### 4. What are the call center Managers most interested in?
 
-
+- Employees meeting objectives
+- Meeting customer satisfaction goals
+- Team development
 
 ### 5. What information do Managers need to make their teams more effective?
+
+- KPIs of employee performance
+- Customer feedback comments regarding call center
+- Identifying rate and cause of voluntary turnovers
+
+## 📌 Step 3: Define the KPIs
+
+Upon defining the business impact and stakeholder needs, it is important to identify the Key Performance Indicators (KPIs) and supporting metrics to track progress towards the business outcomes.
 
