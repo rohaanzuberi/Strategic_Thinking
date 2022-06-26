@@ -18,7 +18,6 @@ Strategic Thinking is most critical at early stages of the analytics workflow
 ### Technical Proficiency
 
 Technical Proficiency is the ability to execute. This is where **hard-skills** like writing code, carrying out ETL activities and data visualization matter.
-![image](https://user-images.githubusercontent.com/103615594/175794790-2131bef6-a01c-4174-8242-912b0ac9750f.jpeg)
 
 Technical skills help in being effecient with analysis and being a valuable contributor to the analytical projects.
 
