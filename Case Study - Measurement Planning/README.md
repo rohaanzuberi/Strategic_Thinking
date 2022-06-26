@@ -10,6 +10,6 @@ My first assignment is to build a detailed measurement plan for the VP who runs 
 
 ## The Objectives
 
-1. Consider the goals of the business and needs of my stakeholders
+1. Consider the goals of the business and needs of the stakeholders
 2. Identify and prioritize Key Performance Indicators and supporting metrics
 3. Make a plan to gather the data and address any gaps
