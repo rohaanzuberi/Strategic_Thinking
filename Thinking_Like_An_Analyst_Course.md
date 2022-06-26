@@ -80,13 +80,22 @@ Creates a strong foundation for analysis on clean, high-quality data
 This process will help in working efficiently and ensuring that the exact data needed to support analysis is available
 
 > **KEY QUESTIONS**:
+> 
 > - What exactly does each record represent?
 > - Which fields are most relevant to the analysis?
 > - Are there important nuances or industry-specific metrics?
 
 ### Analyze & visualize the data
 
+- It is about creating clear patterns and visual cues to help make sense of complex information
 
+Allows data to be leveraged for story-telling data-driven narratives
+
+> **KEY QUESTIONS**:
+> 
+> - What type of data am I trying to analyze or visualize?
+> - What type of trend or pattern am I communicating?
+> - Who is the end user consuming this information?
 
 ### Develop data-driven insights
 
