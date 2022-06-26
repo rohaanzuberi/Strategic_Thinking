@@ -99,5 +99,25 @@ Allows data to be leveraged for story-telling data-driven narratives
 
 ### Develop data-driven insights
 
+- Role objective is not to analyze data; role objective is to deliver insights & outcomes for the business
+- Strong insight = Data-driven story + Actionable recommendations to drive key outcomes in measurement plan
+
+One of the most important step in workflow that should be prioritized.
+
+> **KEY QUESTIONS**:
+> 
+> - What key takeaways are we able to derive from the data?
+> - How can we use these insights to impact real outcomes?
+> - How can I convince stakeholders to take action?
 
 ### Measure, test & optimize
+
+- Track pre/post changes to your KPIs
+- Quantify the impact of analysis outcomes (in dollars, if possible)
+- Seek opportunities to continue to test and optimize
+
+> **KEY QUESTIONS**:
+> 
+> - Did my recommendations produce the desired outcomes?
+> - What value did this analysis generate for the business?
+> - Can this analysis help inform future tests or optimizations?
