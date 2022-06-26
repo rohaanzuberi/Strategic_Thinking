@@ -4,7 +4,7 @@ This file contains the key takeaways from the course offered by [Maven Analytics
 
 The course contained information to help apply proven frameworks and practice the application of strategic thinking through case studies.
 
-## Key takeaways to be a great Analyst
+## 📌 Key takeaways to be a great Analyst
 
 Following are the core attributes required to be a great analyst:
 
