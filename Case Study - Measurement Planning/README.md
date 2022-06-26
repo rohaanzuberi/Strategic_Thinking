@@ -99,8 +99,25 @@ The next step is to focus on the key stakeholders; who are they, what do they ne
 
 Upon defining the business impact and stakeholder needs, it is important to identify the Key Performance Indicators (KPIs) and supporting metrics to track progress towards the business outcomes.
 
+| Primary Business Goal | KPI Definition(s) | Component Metrics |
+| --- | --- | --- |
+| Signups | --- | --- |
+| Close Rate | --- | --- |
+| Customer Retention | --- | --- |
+| Customer Satisfaction | --- | --- |
+| Call Center Efficiency | --- | --- |
 
 ## 📌 Step 4: Identify data sources
 
 After identifying the KPIs and supporting metrics, it is time to think about what data is needed, where to source it, and how to prepare it for analysis.
 
+| Metric | Potential Data Sources | 
+| --- | --- |
+| New Customer Count (or list) | --- |
+| Count of Calls, Count of Sales | --- |
+| Signup List, Months Retained | --- |
+| Customer List, Count of Churners | --- |
+| Survey Responses / Ratings | --- |
+| Survey Responses | --- |
+| Available Rep Time, Time on Calls | --- |
+| Time of Calls, Time of Answers | --- |
