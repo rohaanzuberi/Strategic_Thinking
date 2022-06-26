@@ -18,7 +18,7 @@ My first assignment is to build a detailed measurement plan for the VP who runs 
 
 To complete the assignment and meet the objectives, I carried out the following steps to help identify the business and stakeholder goals.
 
-## Step 1: Think Business First
+## 📌 Step 1: Think Business First
 
 Prior to analyzing data it is important to first think as a business owner.
 
@@ -60,7 +60,7 @@ The call center leadership would more likely be focused at employees and custome
 - Providing incentives to employees based on performance
 - Identifying problems
 
-## Step 2: Know your audience
+## 📌 Step 2: Know your audience
 
 The next step is to focus on the key stakeholders; who are they, what do they need, and how will the analysis support them?
 
