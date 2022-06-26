@@ -24,3 +24,8 @@ Technical skills help in being effecient with analysis and being a valuable cont
 ### Communication Skills
 
 The ability to translate raw data to end users by communicating clearly. Additionally, it includes the ability to listen and interpret feedback effectively. 
+
+## Data Analysis Workflow
+
+Framework to set clear expectations, define and measure key outcomes, improve accuracy and efficiency, and consistently deliver insightful, high-quality work:
+
