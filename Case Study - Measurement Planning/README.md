@@ -99,3 +99,8 @@ The next step is to focus on the key stakeholders; who are they, what do they ne
 
 Upon defining the business impact and stakeholder needs, it is important to identify the Key Performance Indicators (KPIs) and supporting metrics to track progress towards the business outcomes.
 
+
+## 📌 Step 4: Identify data sources
+
+After identifying the KPIs and supporting metrics, it is time to think about what data is needed, where to source it, and how to prepare it for analysis.
+
