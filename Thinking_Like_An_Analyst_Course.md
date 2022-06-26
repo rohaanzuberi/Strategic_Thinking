@@ -37,25 +37,26 @@ Workflow to set clear expectations, define and measure key outcomes, improve acc
 - Understand the specific outcomes you are trying to impact
 - Understand who the key stakeholders are and what motivates them
 
-> This will help aligning on requirements, project scope, and desired outcomes from day one.
+ This will help aligning on requirements, project scope, and desired outcomes from day one.
 
-**KEY QUESTIONS**:
-
-- Which goals or business outcomes am I trying to impact?
-- Who are the key stakeholders, and how will this help them?
-- How does my work fit into the overall business strategy?
+> **KEY QUESTIONS**:
+>
+> - Which goals or business outcomes am I trying to impact?
+> - Who are the key stakeholders, and how will this help them?
+> - How does my work fit into the overall business strategy?
 
 ### Build a measurement plan
 
 - It is a roadplan for success
 - Defines what a successful outcome looks like for the business, determining which KPIs align with that outcome, and identifying the data needed to capture, track and optimize the metrics
-- Critical step to deliver data-driven insights and outcomes
 
-**KEY QUESTIONS**:
+ Critical step to deliver data-driven insights and outcomes
 
-- What exactly does success look like for this analysis?
-- Which specific metrics will help me quantify success?
-- What data will I need to capture and track my KPIs?
+> **KEY QUESTIONS**:
+>
+> - What exactly does success look like for this analysis?
+> - Which specific metrics will help me quantify success?
+> - What data will I need to capture and track my KPIs?
 
 ### Collect & prepare the data
 
