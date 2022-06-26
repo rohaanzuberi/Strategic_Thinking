@@ -101,11 +101,11 @@ Upon defining the business impact and stakeholder needs, it is important to iden
 
 | Primary Business Goal | KPI Definition(s) | Component Metrics |
 | --- | --- | --- |
-| Signups | --- | --- |
-| Close Rate | --- | --- |
-| Customer Retention | --- | --- |
-| Customer Satisfaction | --- | --- |
-| Call Center Efficiency | --- | --- |
+| Signups | How many new customers are registering | Count of new customers |
+| Close Rate | Non-customers to customers conversion through calls | Calculation of count of sales and count of calls |
+| Customer Retention | Membership period, rate of customer churn | Membership period calculation based on signup date and current date, count of membership cancellations |
+| Customer Satisfaction | Customer happiness ratings | Survey scores on a scale of 1-5 |
+| Call Center Efficiency | Performance of call center | Count of calls taken, count of missed calls, average wait time, average call duration |
 
 ## 📌 Step 4: Identify data sources
 
