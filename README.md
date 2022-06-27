@@ -6,7 +6,7 @@ This repository consists of my course learnings, case studies and a general mind
 
 ## 📚 Courses
 
-### [Thinking Like an Analyst]([https://www.mavenanalytics.io/course/thinking-like-an-analyst](https://github.com/rohaanzuberi/Strategic_Thinking/blob/5da9847092d32464351c4d9c58f7ebf82c470e8b/Thinking_Like_An_Analyst_Course.md))
+### [Thinking Like an Analyst](https://github.com/rohaanzuberi/Strategic_Thinking/blob/5da9847092d32464351c4d9c58f7ebf82c470e8b/Thinking_Like_An_Analyst_Course.md)
 
 ## 📑 Case Studies
 
