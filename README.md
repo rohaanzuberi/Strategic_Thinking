@@ -1,4 +1,4 @@
-# 💭 Analytical Thinking
+# 💭 Strategic Thinking
 
 Hi! 👋
 
