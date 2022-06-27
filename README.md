@@ -12,4 +12,4 @@ This repository consists of my course learnings, case studies and a general mind
 
 | Case Study | Description |
 | --- | --- |
-| [Measurement Planning](Case Study - Measurement Planning/README.md) | Identifying the business impact, stakeholder requirements, metrics and data sources to help a company's BI needs |
+| [Measurement Planning](https://github.com/rohaanzuberi/Thinking_Like_an_Analyst/blob/83c91fce5a3ae408eb632c52886c69b94b44e8b2/Case%20Study%20-%20Measurement%20Planning/README.md) | Identifying the business impact, stakeholder requirements, metrics and data sources as a BI Analyst to help Maven Muscles' call centre  align with the business and stakeholder needs |
