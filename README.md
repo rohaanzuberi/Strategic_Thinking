@@ -1,4 +1,4 @@
-# 💭 Thinking Like an Analyst
+# 💭 Analytical Thinking
 
 Hi! 👋
 
