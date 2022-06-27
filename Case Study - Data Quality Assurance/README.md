@@ -15,3 +15,6 @@ My task is to QA the raw customer records to identify any data quality issues th
 1. Review a sample of user records exported from the company’s CRM platform
 2. Identify any potential data quality concerns
 3. Suggest a potential solution for each issue you encounter
+
+## The Deliverables
+
