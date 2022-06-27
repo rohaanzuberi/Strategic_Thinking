@@ -10,4 +10,6 @@ This repository consists of my course learnings, case studies and a general mind
 
 ## 📑 Case Studies
 
-### [Maven Muscles]
+| Case Study | Description |
+| --- | --- |
+| [Measurement Planning](Case Study - Measurement Planning/README.md) | Identifying the business impact, stakeholder requirements, metrics and data sources to help a company's BI needs |
