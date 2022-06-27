@@ -16,5 +16,10 @@ My task is to QA the raw customer records to identify any data quality issues th
 2. Identify any potential data quality concerns
 3. Suggest a potential solution for each issue you encounter
 
+
 ## The Deliverables
+
+Following is the sample raw data shared for carrying out QA checks.
+
+![Data_QA_Case_Study](https://user-images.githubusercontent.com/103615594/175846159-e76a45a4-5784-4a5a-94a8-adb88001fd72.jpeg)
 
