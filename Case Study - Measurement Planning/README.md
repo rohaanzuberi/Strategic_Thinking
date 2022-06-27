@@ -113,11 +113,11 @@ After identifying the KPIs and supporting metrics, it is time to think about wha
 
 | Metric | Potential Data Sources | 
 | --- | --- |
-| New Customer Count (or list) | --- |
-| Count of Calls, Count of Sales | --- |
-| Signup List, Months Retained | --- |
-| Customer List, Count of Churners | --- |
-| Survey Responses / Ratings | --- |
-| Survey Responses | --- |
-| Available Rep Time, Time on Calls | --- |
-| Time of Calls, Time of Answers | --- |
+| New Customer Count (or list) | CRM software, billing records |
+| Count of Calls, Count of Sales | Call logs, customer list |
+| Signup List, Months Retained | CRM software, billing records |
+| Customer List, Count of Churners | CRM software, billing records |
+| Survey Responses / Ratings | Survey tools, external reviews through scraping (APIs etc.) |
+| Survey Responses | Survey tools |
+| Available Rep Time, Time on Calls | HR roster, call center software data |
+| Time of Calls, Time of Answers | Call center software data |
